@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My research interests lie in the broad field of spoken language processing, including speech and singing synthesis (e.g., voice transformation and text-to-speech synthesis), audio adversarial attacks and defense, etc.
+My research interests lie in the broad field of spoken language processing, including speech and singing synthesis (e.g., voice transformation and text-to-speech synthesis), audio adversarial attacks and defense, etc. Now, I am working on large audio models.
 
 My homepage: https://liusongxiang.github.io/
 
