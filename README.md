@@ -8,5 +8,3 @@ Google scholar profile: https://scholar.google.com/citations?user=4fD1l28AAAAJ&h
 
 
 ![githubstats](https://github-readme-stats.vercel.app/api?username=liusongxiang&hide_rank=true&hide=commits&count_private=true&show_icons=true&hide_border=true&hide_title=false)
-
-![profile_counter](https://komarev.com/ghpvc/?username=liusongxiang&color=lightgrey)
