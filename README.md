@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-My research interests lie in the broad field of spoken language processing, including speech and singing synthesis (e.g., voice transformation and text-to-speech synthesis), audio adversarial attacks and defense, etc. Now, I am working on large audio models.
+My research interests encompass the extensive domain of speech and language intelligence, which includes speech foundation models, large language models (LLMs), text-to-speech synthesis (TTS), voice conversion (VC), singing synthesis, cross-modal representation learning, audio adversarial attacks \& defense, among other related areas.
 
-My homepage: https://liusongxiang.github.io/
+[My homepage](https://liusongxiang.github.io)
 
-Google scholar profile: https://scholar.google.com/citations?user=4fD1l28AAAAJ&hl=en
-
-
-[![Songxiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=liusongxiang)](https://github.com/anuraghazra/github-readme-stats)
+[Google scholar profile](https://scholar.google.com/citations?user=4fD1l28AAAAJ&hl=en)
 
